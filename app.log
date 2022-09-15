@@ -1,0 +1,17 @@
+2022-09-15 10:14:05 - INFO - Starting DominosApplication using Java 18.0.2 on DELL-86F8DL3 with PID 10544 (D:\Project\dominos\target\classes started by Administrator in D:\Project\dominos)
+2022-09-15 10:14:05 - INFO - No active profile set, falling back to 1 default profile: "default"
+2022-09-15 10:14:07 - INFO - Starting service [Tomcat]
+2022-09-15 10:14:07 - INFO - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-15 10:14:07 - INFO - Initializing Spring embedded WebApplicationContext
+2022-09-15 10:14:07 - INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-09-15 10:14:07 - INFO - HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-09-15 10:14:08 - INFO - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-15 10:14:08 - INFO - HikariPool-1 - Starting...
+2022-09-15 10:14:08 - INFO - HikariPool-1 - Start completed.
+2022-09-15 10:14:08 - INFO - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-09-15 10:14:09 - INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-15 10:14:10 - INFO - Started DominosApplication in 5.317 seconds (JVM running for 5.931)
+2022-09-15 10:16:25 - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-15 10:16:26 - ERROR - query did not return a unique result: 16; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 16
+2022-09-15 12:32:27 - INFO - HikariPool-1 - Shutdown initiated...
+2022-09-15 12:32:27 - INFO - HikariPool-1 - Shutdown completed.
